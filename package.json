@@ -2,8 +2,8 @@
     "name": "class-util",
     "description": "Class/object utilities",
     "keywords": [
-        "elasticsearch",
-        "elastic search"
+        "class",
+        "object"
     ],
     "author": {
         "name": "Rune Bjerke",
